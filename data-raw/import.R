@@ -3,4 +3,4 @@
 library(dplyr)
 library(readr)
 
-stad <- read_csv("data-raw/stad.csv")
+stad_ga <- read_csv("data-raw/stad.csv")

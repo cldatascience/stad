@@ -8,4 +8,4 @@
 #'  \item{lexicon}{The source of the word, for compatibility with tidytext}
 #'  }
 #'
-"stad"
+"stad_ga"
