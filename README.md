@@ -6,6 +6,15 @@
 
 This package contains some handy data sources for text mining with Irish-language data (Gaeilge).
 
+Installation
+------------
+You can install `stad` from github using [devtools](https://cran.r-project.org/package=devtools):
+
+``` r
+library(devtools)
+install_github("cldatascience/stad")
+```
+
 liosta
 ------
 A list of stopwords for Irish (Gaeilge), suitable for use in tidy text packages such as [tidytext](https://cran.r-project.org/package=tidytext) or [tidygramr](https://github.com/cldatascience/tidygramr)
