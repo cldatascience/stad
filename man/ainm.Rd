@@ -6,7 +6,7 @@
 \title{Personal names obtained from CSO data}
 \format{A data frame with 5017 rows and 2 variables:
 \describe{
- \item{name}{A personal name}
+ \item{word}{A personal name}
  \item{lexicon}{The source of the word (name), for compatibility with tidytext}
  }}
 \usage{
