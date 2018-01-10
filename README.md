@@ -15,3 +15,6 @@ The initial list of words is based on commonly occuring words in Irish such as p
 ainm
 ------
 Personal names in Ireland with three or more occurrences. This Central Statistics Office (CSO) data was obtained from [data.gov.ie](https://data.gov.ie/data), available under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+* [Boys names](https://data.gov.ie/dataset/boys-names-in-ireland-with-3-or-more-occurrences-by-name-year-and-statistic)
+* [Girls names](https://data.gov.ie/dataset/girls-names-in-ireland-with-3-or-more-occurrences-by-name-year-and-statistic)
