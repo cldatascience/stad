@@ -33,5 +33,5 @@ tuairim
 An abridged translation of the Bing Liu lexicon (via [tidytext](https://cran.r-project.org/package=tidytext)) into the Irish language.
 
 For original lexicon, see:
-*[Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
-*[Lexicon from tidytext](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+* [Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)  
+* [Lexicon from tidytext](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
