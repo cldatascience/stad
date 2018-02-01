@@ -27,3 +27,11 @@ Personal names in Ireland with three or more occurrences. This Central Statistic
 
 * [Boys names](https://data.gov.ie/dataset/boys-names-in-ireland-with-3-or-more-occurrences-by-name-year-and-statistic)
 * [Girls names](https://data.gov.ie/dataset/girls-names-in-ireland-with-3-or-more-occurrences-by-name-year-and-statistic)
+
+tuairim
+------
+An abridged translation of the Bing Liu lexicon (via [tidytext](https://cran.r-project.org/package=tidytext)) into the Irish language.
+
+For original lexicon, see:
+*[Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
+*[Lexicon from tidytext](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
