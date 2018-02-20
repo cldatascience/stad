@@ -23,11 +23,11 @@ test_that("test tuairim lexicon", {
           mutate(ratio = 100*((positive - negative)/total_words)) %>%
           left_join(sentences,by="id")
         
-        expect_match(sentiment_scores$ratio[1],33.33333)
-        expect_match(sentiment_scores$ratio[2],50)
-        expect_match(sentiment_scores$ratio[3],-50.00000)
-        expect_match(sentiment_scores$ratio[4],-50.00000)
-        expect_match(sentiment_scores$ratio[5],-50)
+        expect_equal(round(sentiment_scores$ratio[1],2),33.33)
+        expect_equal(round(sentiment_scores$ratio[2],2),50)
+        expect_equal(round(sentiment_scores$ratio[3],2),-50.00)
+        expect_equal(round(sentiment_scores$ratio[4],2),-50.00)
+        expect_equal(round(sentiment_scores$ratio[5],2),-50)
       }
     }
   }
