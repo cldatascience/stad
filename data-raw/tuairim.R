@@ -10,5 +10,7 @@ library(readr)
 # https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 # https://github.com/juliasilge/tidytext/tree/master/data-raw
 
-tuairim <- read_csv("data-raw/tuairim.csv")
-devtools::use_data(tuairim)
+tuairim <- read_csv("data-raw/tuairim.csv",
+                    col_types=cols(word=col_character(), 
+                                   sentiment=col_factor(levels=c("positive","negative"))))
+devtools::use_data(tuairim, overwrite = TRUE)

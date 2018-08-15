@@ -10,6 +10,6 @@
 #'  }
 #' @source \itemize{
 #'  \item \url{https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html}
-#'  \item \url{https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html}
+#'  \item \url{https://github.com/juliasilge/tidytext/tree/master/data-raw}
 #'  }
 "tuairim"
